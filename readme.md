@@ -2,8 +2,10 @@
 花卉识别是卷积神经网络的入门案例，这里我将模型的训练、测试、保存以及使用整合在了一起，至于原理部分，大家可以参考知乎或者B站上的回答，在这里我就不赘述了
 
 **本期视频的代码存在较多bug，请参考新的视频和代码，对bug进行了修复，并对代码做了详解**
-[手把手教你用tensorflow2训练自己的数据集_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rX4y1A7N8)
-[vegetables_tf2.3: 基于tensorflow2.3开发的物体分类系统 (gitee.com)](https://gitee.com/song-laogou/vegetables_tf2.3)
+
+视频教程：[手把手教你用tensorflow2训练自己的数据集_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rX4y1A7N8)
+
+代码地址：[vegetables_tf2.3: 基于tensorflow2.3开发的物体分类系统 (gitee.com)](https://gitee.com/song-laogou/vegetables_tf2.3)
 
 
 
