@@ -1,17 +1,17 @@
 # 花卉识别-基于tensorflow2.3实现
 花卉识别是卷积神经网络的入门案例，这里我将模型的训练、测试、保存以及使用整合在了一起，至于原理部分，大家可以参考知乎或者B站上的回答，在这里我就不赘述了
 
-### 数据集和模型下载地址
+**本期视频的代码存在较多bug，请参考新的视频和代码，对bug进行了修复，并对代码做了详解**
+[手把手教你用tensorflow2训练自己的数据集_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rX4y1A7N8)
+[vegetables_tf2.3: 基于tensorflow2.3开发的物体分类系统 (gitee.com)](https://gitee.com/song-laogou/vegetables_tf2.3)
 
-> 链接：https://pan.baidu.com/s/1V6ECzuKqYJOLHE9bEXdj7Q 
-> 提取码：5pjm 
-> 复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
+
 
 ### 一起来玩
 
 > qq群：821429104
 >
-> b站：宋老狗97
+> b站：dejahu
 >
 > git地址：https://gitee.com/song-laogou/Flower_tf2.3
 >
